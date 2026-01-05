@@ -1,5 +1,5 @@
 import { Outlet, useSearchParams } from "react-router-dom";
-import NavBar from "./navbar";
+import NavBar from "./NavBar";
 import Footer from "./Footer";
 import { API_BASE_URL } from "../utils/constant";
 import { useDispatch, useSelector } from "react-redux";
